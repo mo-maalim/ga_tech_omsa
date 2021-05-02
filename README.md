@@ -19,10 +19,10 @@ Personal Plan: complete 30/36 units after Summer 2022
 - ISYE 6402- Time Series Analysis (Fall 2021)
 - ISYE 6414 - Regression Analysis (Summer 2022)
 ### Operations Research Electives (3 credit hours)
-- ISYE 6644- Simulation (Fall 2021)
+- ISYE 6644 - Simulation (Fall 2021)
 ### Track Electives (6 credit hours required)
 - ISYE 6669 - Deterministic Optimization (Fall 2022)
-- ISYE 6420- Bayesian Statistics (Summer 2022)
+- ISYE 6420 - Bayesian Statistics (Summer 2022)
 ### Additional Electives (6 credit hours required)
 - None
 ### Practicum (6 credit hours)
