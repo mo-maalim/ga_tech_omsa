@@ -8,7 +8,7 @@ Personal Plan: complete 30/36 units after Summer 2022
 
 ## Courses
 
-### Core Requirements (3 units - Complete)
+### Core Requirements (3 credit hours)
 - ISYE 6501 - Introduction to Analytics Modeling (Summer 2020)
 - CSE 6040 - Introduction for Computing for Data Analytics (Fall 2020)
 - MGT 8803/6754 - Business Fundamentals for Analytics (Spring 2022) 
