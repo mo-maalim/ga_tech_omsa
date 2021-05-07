@@ -29,4 +29,4 @@ __Personal Plan__: complete 30/36 units after Summer 2022
 CSE 6748 - Practicum Project (Spring 2023)
 
 ## Personal Schedule
-![image](https://user-images.githubusercontent.com/61436947/117500638-23e36080-af3a-11eb-94aa-457768e17bb9.png)
+![image](https://user-images.githubusercontent.com/61436947/117500843-715fcd80-af3a-11eb-9d2b-9c8ec1698e72.png)
