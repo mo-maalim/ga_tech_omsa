@@ -11,27 +11,22 @@ __Personal Plan__: complete 30/36 units after Summer 2022
 ### Core Requirements (3 credit hours)
 - ISYE 6501 - Introduction to Analytics Modeling (Summer 2020 - complete)
 - CSE 6040 - Computing for Data Analytics (Fall 2020 - complete)
-- MGT 8803/6754 - Business Fundamentals for Analytics (Summer 2022) 
+- MGT 8803/6754 - Business Fundamentals for Analytics (Spring 2022) 
 ### Advanced Core Requirements
 - MGT 6203 - Data Analytics in Business (Spring 2021 - complete)
 - CSE 6242 - Data and Visual Analytics (Fall 2022)
 ### Statistics Electives (6 credit hours)
-- ISYE 6402- Time Series Analysis (Spring 2022)
+- ISYE 6740 - Computational Data Analytics (Machine Learning) (Spring 2022)
 - ISYE 6414 - Regression Analysis (Fall 2021)
 ### Operations Research Electives (3 credit hours)
 - ISYE 6644 - Simulation (Spring 2022)
 ### Track Electives (6 credit hours required)
-- ISYE 6669 - Deterministic Optimization (Summer 2022)
+- ISYE 6413 - Design & Analysis of Experiments (Summer 2022)
 - ISYE 6420 - Bayesian Statistics (Fall 2021)
 ### Additional Electives (6 credit hours required)
 - None
 ### Practicum (6 credit hours)
 CSE 6748 - Practicum Project (Fall 2022)
 
-
-#### Other courses to consider
-- Design and Analysis of Experiments
-- Topics in High Dimentional Data Analytics
-- Machine Learning
-## Personal Schedule
-![image](https://user-images.githubusercontent.com/61436947/117500843-715fcd80-af3a-11eb-9d2b-9c8ec1698e72.png)
+## Possible Substitute Courses to consider:
+- Data Analysis for Continuous Improvement (MGT 8803)
