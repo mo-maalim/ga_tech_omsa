@@ -29,4 +29,7 @@ __Personal Plan__: complete 30/36 units after Summer 2022
 - CSE 6748 - Practicum Project (Spring 2023)
 
 ## Possible Substitute Courses to consider:
-- Data Analysis for Continuous Improvement (MGT 8803)
+- MGT 8803 - Data Analysis for Continuous Improvement
+- CSE 6240 - Web Search and Text Mining (mostly the text mining)
+- ISYE 7406 - Data Mining and Statistical Learning (data mining + machine learning)
+- CSE 6140 - Computational Science and Engineering Algorithms (algorithms are building blocks for transformations)
