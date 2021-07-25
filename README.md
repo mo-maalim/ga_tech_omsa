@@ -19,7 +19,7 @@ __Personal Plan__: complete 30/36 units after Summer 2022
 - ISYE 6740 - Computational Data Analytics (Machine Learning) (Summer 2022)
 - ISYE 6414 - Regression Analysis (Spring 2022)
 ### Operations Research Electives (3 credit hours)
-- ISYE 6644 - Simulation (Spring 2022)
+- ISYE 6669 - Deterministic Optimization (Spring 2022)
 ### Track Electives (6 credit hours required)
 - CSE 6400 - Database Systems Concepts and Design (Fall 2021)
 - CSE 6250 - Big Data Analytics in Healthcare (Spring 2023)
