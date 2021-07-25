@@ -4,7 +4,7 @@
 
 __Total credit hours required to graduate__: 36 (10 courses x 3 Hour + APPLIED ANALYTICS PRACTICUM x 6 Hour)
 
-__Personal Plan__: complete 30/36 units after Summer 2022
+__Personal Plan__: complete 30/36 units after Fall 2022
 
 ## Courses
 
