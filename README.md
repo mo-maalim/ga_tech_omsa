@@ -21,8 +21,8 @@ __Personal Plan__: complete 30/36 units after Fall 2022
 ### Operations Research Electives (3 credit hours)
 - ISYE 6669 - Deterministic Optimization (Fall 2021)
 ### Track Electives (6 credit hours required)
-- CSE 6400 - Database Systems Concepts and Design (Fall 2021)
-- CSE 6250 - Big Data Analytics in Healthcare (Spring 2023)
+- ISYE 6644 - Simulation (Summer 2022)
+- ISEY 6402 - Time Series Analysis (Spring 2023)
 ### Additional Electives (6 credit hours required)
 - None
 ### Practicum (6 credit hours)
